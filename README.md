@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AbhilashKVSP
-- 👀 I’m interested in Everything
+- 👀 I’m interested in Software and Product Management
 - 🌱 I’m currently learning Front End Development
 - 📫 You can reach me by dropping an email to k.v.s.p.abhilashreddy@gmail.com
 
